@@ -37,3 +37,10 @@ bash <(curl -s https://raw.githubusercontent.com/OPKns/Obs-Studio-Installer/main
 ```
 
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)._
+
+
+## Contributors ✨
+
+Copyright (C) 2018 - 2022, Eas, <contact@exaltairservices.ml>
+
+Created and maintained by [OPKns](https://github.com/OPKns).
