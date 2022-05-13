@@ -6,9 +6,6 @@ Read more about [OBS](https://obsproject.com/) here. This script is not associat
 ## Features
 - Automatic Installation Of Obs Studio
 - Automatic Installation Of FFPEG And Dependencies
-## Help and support
-
-For help and support regarding the script itself and **not the official OBS project**, you can join the [Discord Chat](https://soon.com).
 
 ## Supported installations
 
@@ -36,9 +33,13 @@ bash <(curl -s https://raw.githubusercontent.com/OPKns/Obs-Studio-Installer/main
 
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)._
 
+## Help and support
 
-## Contributors ✨
+For help regarding the script and **not the official OBS project**, you can join the [Discord Chat](https://soon.com).
 
-Copyright (C) 2018 - 2022, Eas, <contact@exaltairservices.ml>
 
-Created and maintained by [OPKns](https://github.com/OPKns).
+## Contributors 
+
+Copyright (C) 2020 - 2022, Eas, <contact@exaltairservices.ml>
+
+Created By [OPKns](https://github.com/OPKns).
