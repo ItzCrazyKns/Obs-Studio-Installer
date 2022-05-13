@@ -1,2 +1,2 @@
-# Obs-Studio-Installer
+# :bird: Obs-Studio-Installer
 An Unofficial Script To Install OBS SUDIO in Linux
