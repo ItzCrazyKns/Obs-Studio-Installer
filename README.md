@@ -12,9 +12,7 @@ For help and support regarding the script itself and **not the official OBS proj
 
 ## Supported installations
 
-List of supported installation setups for panel and Wings (installations supported by this installation script).
-
-### Supported panel operating systems and webservers
+List of supported installation setups for panel and Wings (installations supported by this installation script
 
 | Operating System | Version | support            |
 | ---------------- | ------- | ------------------ |
