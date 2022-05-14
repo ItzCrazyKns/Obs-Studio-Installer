@@ -1,4 +1,4 @@
-# :bird: Obs Studio Installer
+# :zap: Obs Studio Installer
 Unofficial scripts for installing OBS Studio. Works with the latest version of OBS!
 
 Read more about [OBS](https://obsproject.com/) here. This script is not associated with the official OBS Project.
@@ -9,7 +9,7 @@ Read more about [OBS](https://obsproject.com/) here. This script is not associat
 
 ## Supported installations
 
-List of supported installation setups for panel and Wings (installations supported by this installation script
+List of supported installation setups for OBS Studio (installations supported by this installation script
 
 | Operating System | Version | support            |
 | ---------------- | ------- | ------------------ |
